@@ -316,7 +316,7 @@ EOF
         echo "  nx access-logs    - Mostra access logs"
         echo "  nx help           - Mostra esta ajuda"
         echo ""
-        echo "Developed by nemtudo.me <3"
+        echo "By nemtudo.me <3"
         ;;
     *)
         echo "❌ Comando não reconhecido: $1"
